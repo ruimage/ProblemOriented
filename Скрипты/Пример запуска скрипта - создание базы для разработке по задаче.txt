@@ -1,1 +1,5 @@
 oscript "C:\Скрипты\Создание базы теста.os" "MF01-59"
+
+
+Для удаленки
+oscript "D:\GitHub\ProblemOriented\Скрипты\Создание базы теста.os" "MF01-59"
